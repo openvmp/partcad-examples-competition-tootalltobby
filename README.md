@@ -17,84 +17,84 @@ to generate OpenSCAD or build123d scripts instead of CadQuery ones.
 
 ### tier01-24-01-01
 <table><tr>
-<td valign=top><a href="tier01-24-01-01.py"><img src="././tier01-24-01-01.png" height="200" style="width: auto; height: auto; max-height: 200;"></a></td>
+<td valign=top><a href="tier01-24-01-01.py"><img src="././tier01-24-01-01.svg" width="200" height="200"></a></td>
 <td valign=top>Single solid object displayed on the attached images.
 The first image contins projections to all 3 coordinate planes.
 The other two images are renderings from different angles.
 </td>
 <td valign=top>Input images:
-</br><img src="input-24-01-01-blueprint.png" alt="input-24-01-01-blueprint.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-01-01-render1.png" alt="input-24-01-01-render1.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-01-01-render2.png" alt="input-24-01-01-render2.png" height="200" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-01-blueprint.png" alt="input-24-01-01-blueprint.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-01-render1.png" alt="input-24-01-01-render1.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-01-render2.png" alt="input-24-01-01-render2.png" style="width: auto; height: auto; max-height: 200;" />
 </td>
 </tr></table>
 
 ### tier01-24-04-02
 <table><tr>
-<td valign=top><a href="tier01-24-04-02.py"><img src="././tier01-24-04-02.png" height="200" style="width: auto; height: auto; max-height: 200;"></a></td>
+<td valign=top><a href="tier01-24-04-02.py"><img src="././tier01-24-04-02.svg" width="200" height="200"></a></td>
 <td valign=top>Single solid object displayed on the attached images.
 The first image contins projections to all 3 coordinate planes.
 The other two images are renderings from different angles.
 </td>
 <td valign=top>Input images:
-</br><img src="input-24-04-02-blueprint.png" alt="input-24-04-02-blueprint.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-04-02-render1.png" alt="input-24-04-02-render1.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-04-02-render2.png" alt="input-24-04-02-render2.png" height="200" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-04-02-blueprint.png" alt="input-24-04-02-blueprint.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-04-02-render1.png" alt="input-24-04-02-render1.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-04-02-render2.png" alt="input-24-04-02-render2.png" style="width: auto; height: auto; max-height: 200;" />
 </td>
 </tr></table>
 
 ### tier01-24-04-04
 <table><tr>
-<td valign=top><a href="tier01-24-04-04.py"><img src="././tier01-24-04-04.png" height="200" style="width: auto; height: auto; max-height: 200;"></a></td>
+<td valign=top><a href="tier01-24-04-04.py"><img src="././tier01-24-04-04.svg" width="200" height="200"></a></td>
 <td valign=top>Single solid object displayed on the attached images.
 The first image contins projections to all 3 coordinate planes.
 The other two images are renderings from different angles.
 </td>
 <td valign=top>Input images:
-</br><img src="input-24-04-04-blueprint.png" alt="input-24-04-04-blueprint.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-04-04-render1.png" alt="input-24-04-04-render1.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-04-04-render2.png" alt="input-24-04-04-render2.png" height="200" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-04-04-blueprint.png" alt="input-24-04-04-blueprint.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-04-04-render1.png" alt="input-24-04-04-render1.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-04-04-render2.png" alt="input-24-04-04-render2.png" style="width: auto; height: auto; max-height: 200;" />
 </td>
 </tr></table>
 
 ### tier03-24-01-03
 <table><tr>
-<td valign=top><a href="tier03-24-01-03.py"><img src="././tier03-24-01-03.png" height="200" style="width: auto; height: auto; max-height: 200;"></a></td>
+<td valign=top><a href="tier03-24-01-03.py"><img src="././tier03-24-01-03.svg" width="200" height="200"></a></td>
 <td valign=top>Single solid object displayed on the attached images.
 The first image is projections to all 3 coordinate planes.
 The other two images are renderings from different angles.
 </td>
 <td valign=top>Input images:
-</br><img src="input-24-01-03-blueprint.png" alt="input-24-01-03-blueprint.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-01-03-render1.png" alt="input-24-01-03-render1.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-01-03-render2.png" alt="input-24-01-03-render2.png" height="200" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-03-blueprint.png" alt="input-24-01-03-blueprint.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-03-render1.png" alt="input-24-01-03-render1.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-03-render2.png" alt="input-24-01-03-render2.png" style="width: auto; height: auto; max-height: 200;" />
 </td>
 </tr></table>
 
 ### tier03-24-01-04
 <table><tr>
-<td valign=top><a href="tier03-24-01-04.py"><img src="././tier03-24-01-04.png" height="200" style="width: auto; height: auto; max-height: 200;"></a></td>
+<td valign=top><a href="tier03-24-01-04.py"><img src="././tier03-24-01-04.svg" width="200" height="200"></a></td>
 <td valign=top>Single solid object displayed on the attached images.
 The first image is projections to all 3 coordinate planes.
 The other image is a rendering from an angle.
 </td>
 <td valign=top>Input images:
-</br><img src="input-24-01-04-blueprint.png" alt="input-24-01-04-blueprint.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-01-04-render1.png" alt="input-24-01-04-render1.png" height="200" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-04-blueprint.png" alt="input-24-01-04-blueprint.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-04-render1.png" alt="input-24-01-04-render1.png" style="width: auto; height: auto; max-height: 200;" />
 </td>
 </tr></table>
 
 ### tier04-24-01-02
 <table><tr>
-<td valign=top><a href="tier04-24-01-02.py"><img src="././tier04-24-01-02.png" height="200" style="width: auto; height: auto; max-height: 200;"></a></td>
+<td valign=top><a href="tier04-24-01-02.py"><img src="././tier04-24-01-02.svg" width="200" height="200"></a></td>
 <td valign=top>Single solid object displayed on the attached images.
 The first image is projections to all 3 coordinate planes.
 The other two images are renderings from different angles.
 </td>
 <td valign=top>Input images:
-</br><img src="input-24-01-02-blueprint.png" alt="input-24-01-02-blueprint.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-01-02-render1.png" alt="input-24-01-02-render1.png" height="200" style="width: auto; height: auto; max-height: 200;" />
-</br><img src="input-24-01-02-render2.png" alt="input-24-01-02-render2.png" height="200" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-02-blueprint.png" alt="input-24-01-02-blueprint.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-02-render1.png" alt="input-24-01-02-render1.png" style="width: auto; height: auto; max-height: 200;" />
+</br><img src="input-24-01-02-render2.png" alt="input-24-01-02-render2.png" style="width: auto; height: auto; max-height: 200;" />
 </td>
 </tr></table>
 

@@ -82,5 +82,5 @@ parts:
       - input-24-04-04-render2.png
 
 render:
-  png:
+  svg:
   readme:
