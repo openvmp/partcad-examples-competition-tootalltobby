@@ -10,9 +10,12 @@ docs:
     The models are not yet ejected from the initial AI configuration, so you
     can use your own AI API keys to tweak the input data as well as the prompts to
     regenerate the scripts.
-
     You can also easily change the PartCAD configuration
     to generate OpenSCAD or build123d scripts instead of CadQuery ones.
+
+    For the best experience, open this repository in a Visual Studio Code workspace with the
+    [PartCAD vscode extension](https://marketplace.visualstudio.com/items?itemName=OpenVMP.partcad)
+    installed.
 
 parts:
   tier01-24-01-01:
