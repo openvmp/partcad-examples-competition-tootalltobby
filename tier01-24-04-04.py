@@ -1,24 +1,35 @@
-import math
 import cadquery as cq
+import math
 
-# Step 1: Create the Main Body
-main_body = cq.Workplane("XY").box(10.0, 1.0, 1.0)
+main_cuboid = cq.Workplane("XY").box(10.0, 0.75, 1.0, centered=(True, True, True))
 
-# Step 2: Create the Arch Cutout
-arch_cutout = cq.Workplane("XY").cylinder(1.0, 18.0).translate((0, 0, 0.5))
-main_body = main_body.cut(arch_cutout)
+cylindrical_ends = (
+    cq.Workplane("XY")
+    .moveTo(-5.0, 0)
+    .circle(0.75)
+    .extrude(0.75)
+    .union(
+        cq.Workplane("XY")
+        .moveTo(5.0, 0)
+        .circle(0.75)
+        .extrude(0.75)
+    )
+)
 
-# Step 3: Create the Side Cutouts
-side_cutout1 = cq.Workplane("XY").box(2.5, 1.0, 1.0).translate((-3.75, 0, 0.5))
-side_cutout2 = cq.Workplane("XY").box(2.5, 1.0, 1.0).translate((3.75, 0, 0.5))
-main_body = main_body.cut(side_cutout1).cut(side_cutout2)
+combined_shape = main_cuboid.union(cylindrical_ends)
 
-# Step 4: Create the Rounded Ends
-rounded_end1 = cq.Workplane("XY").cylinder(1.0, 0.75).translate((-5.0, 0, 0.5))
-rounded_end2 = cq.Workplane("XY").cylinder(1.0, 0.75).translate((5.0, 0, 0.5))
-main_body = main_body.union(rounded_end1).union(rounded_end2)
+# Reduce the fillet radius to ensure it can be applied successfully
+combined_shape = combined_shape.edges("|Z").fillet(0.3)
 
-# Step 5: Apply Fillets with a reduced radius
-main_body = main_body.edges().fillet(0.1)
+central_arch = (
+    cq.Workplane("XZ")
+    .center(0, 0.5)
+    .circle(18.0)
+    .extrude(0.75)
+)
 
-show_object(main_body)
+final_shape = combined_shape.cut(central_arch)
+
+final_shape = final_shape.edges("<Z").fillet(0.1875)
+
+show_object(final_shape)

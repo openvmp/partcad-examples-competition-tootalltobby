@@ -15,14 +15,21 @@ For the best experience, open this repository in a Visual Studio Code workspace 
 [PartCAD vscode extension](https://marketplace.visualstudio.com/items?itemName=OpenVMP.partcad)
 installed.
 
+
 ## Parts
 
 ### tier01-24-01-01
 <table><tr>
 <td valign=top><a href="tier01-24-01-01.py"><img src="././tier01-24-01-01.svg" style="width: auto; height: auto; max-width: 200px; max-height: 200px;"></a></td>
-<td valign=top>Single solid object displayed on the attached images.
-The first image contins projections to all 3 coordinate planes.
-The other two images are renderings from different angles.
+<td valign=top>The attached images depict a single solid object.
+
+The first image is a technical drawing showing the object's
+projections onto the three coordinate planes (XY, XZ, and YZ).
+INSERT_IMAGE_HERE(input-24-01-01-blueprint.png)
+
+The other two images are rendered views of the object from different perspectives:
+INSERT_IMAGE_HERE(input-24-01-01-render1.png)
+INSERT_IMAGE_HERE(input-24-01-01-render2.png)
 </td>
 <td valign=top>Input images:
 </br><img src="input-24-01-01-blueprint.png" alt="input-24-01-01-blueprint.png" style="width: auto; height: auto; max-width: 200px; max-height: 200px;" />
@@ -34,9 +41,15 @@ The other two images are renderings from different angles.
 ### tier01-24-04-02
 <table><tr>
 <td valign=top><a href="tier01-24-04-02.py"><img src="././tier01-24-04-02.svg" style="width: auto; height: auto; max-width: 200px; max-height: 200px;"></a></td>
-<td valign=top>Single solid object displayed on the attached images.
-The first image contins projections to all 3 coordinate planes.
-The other two images are renderings from different angles.
+<td valign=top>The attached images depict a single solid object.
+
+The first image is a technical drawing showing the object's
+projections onto the three coordinate planes (XY, XZ, and YZ):
+INSERT_IMAGE_HERE(input-24-04-02-blueprint.png)
+
+The remaining two images are rendered views of the object from different perspectives:
+INSERT_IMAGE_HERE(input-24-04-02-render1.png)
+INSERT_IMAGE_HERE(input-24-04-02-render2.png)
 </td>
 <td valign=top>Input images:
 </br><img src="input-24-04-02-blueprint.png" alt="input-24-04-02-blueprint.png" style="width: auto; height: auto; max-width: 200px; max-height: 200px;" />
@@ -48,9 +61,15 @@ The other two images are renderings from different angles.
 ### tier01-24-04-04
 <table><tr>
 <td valign=top><a href="tier01-24-04-04.py"><img src="././tier01-24-04-04.svg" style="width: auto; height: auto; max-width: 200px; max-height: 200px;"></a></td>
-<td valign=top>Single solid object displayed on the attached images.
-The first image contins projections to all 3 coordinate planes.
-The other two images are renderings from different angles.
+<td valign=top>The attached images depict a single solid object.
+
+The first image is a technical drawing showing the object's
+projections onto the three coordinate planes (XY, XZ, and YZ):
+INSERT_IMAGE_HERE(input-24-04-04-blueprint.png)
+
+The remaining two images are rendered views of the object from different perspectives:
+INSERT_IMAGE_HERE(input-24-04-04-render1.png)
+INSERT_IMAGE_HERE(input-24-04-04-render2.png)
 </td>
 <td valign=top>Input images:
 </br><img src="input-24-04-04-blueprint.png" alt="input-24-04-04-blueprint.png" style="width: auto; height: auto; max-width: 200px; max-height: 200px;" />
@@ -62,9 +81,15 @@ The other two images are renderings from different angles.
 ### tier03-24-01-03
 <table><tr>
 <td valign=top><a href="tier03-24-01-03.py"><img src="././tier03-24-01-03.svg" style="width: auto; height: auto; max-width: 200px; max-height: 200px;"></a></td>
-<td valign=top>Single solid object displayed on the attached images.
-The first image is projections to all 3 coordinate planes.
-The other two images are renderings from different angles.
+<td valign=top>The attached images depict a single solid object.
+
+The first image is a technical drawing showing the object's
+projections onto the three coordinate planes (XY, XZ, and YZ):
+INSERT_IMAGE_HERE(input-24-01-03-blueprint.png)
+
+The remaining two images are rendered views of the object from different perspectives:
+INSERT_IMAGE_HERE(input-24-01-03-render1.png)
+INSERT_IMAGE_HERE(input-24-01-03-render2.png)
 </td>
 <td valign=top>Input images:
 </br><img src="input-24-01-03-blueprint.png" alt="input-24-01-03-blueprint.png" style="width: auto; height: auto; max-width: 200px; max-height: 200px;" />
@@ -76,9 +101,14 @@ The other two images are renderings from different angles.
 ### tier03-24-01-04
 <table><tr>
 <td valign=top><a href="tier03-24-01-04.py"><img src="././tier03-24-01-04.svg" style="width: auto; height: auto; max-width: 200px; max-height: 200px;"></a></td>
-<td valign=top>Single solid object displayed on the attached images.
-The first image is projections to all 3 coordinate planes.
-The other image is a rendering from an angle.
+<td valign=top>The attached images depict a single solid object.
+
+The first image is a technical drawing showing the object's
+projections onto the three coordinate planes (XY, XZ, and YZ):
+INSERT_IMAGE_HERE(input-24-01-04-blueprint.png)
+
+The second image is a rendered view of the object from a perspective:
+INSERT_IMAGE_HERE(input-24-01-04-render1.png)
 </td>
 <td valign=top>Input images:
 </br><img src="input-24-01-04-blueprint.png" alt="input-24-01-04-blueprint.png" style="width: auto; height: auto; max-width: 200px; max-height: 200px;" />
@@ -89,9 +119,14 @@ The other image is a rendering from an angle.
 ### tier04-24-01-02
 <table><tr>
 <td valign=top><a href="tier04-24-01-02.py"><img src="././tier04-24-01-02.svg" style="width: auto; height: auto; max-width: 200px; max-height: 200px;"></a></td>
-<td valign=top>Single solid object displayed on the attached images.
-The first image is projections to all 3 coordinate planes.
-The other two images are renderings from different angles.
+<td valign=top>The attached images depict a single solid object.
+The first image is a technical drawing showing the object's
+projections onto the three coordinate planes (XY, XZ, and YZ):
+INSERT_IMAGE_HERE(input-24-01-02-blueprint.png)
+
+The remaining two images are rendered views of the object from different perspectives:
+INSERT_IMAGE_HERE(input-24-01-02-render1.png)
+INSERT_IMAGE_HERE(input-24-01-02-render2.png)
 </td>
 <td valign=top>Input images:
 </br><img src="input-24-01-02-blueprint.png" alt="input-24-01-02-blueprint.png" style="width: auto; height: auto; max-width: 200px; max-height: 200px;" />
